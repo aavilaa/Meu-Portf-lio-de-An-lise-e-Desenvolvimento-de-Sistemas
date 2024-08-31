@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Este repositório contém projetos e exercícios de
 Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse especial em [áreas de interesse, como desenvolvimento web, inteligência artificial, banco de dados]. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## Projetos
-### [Calculo_media]([link_para_projeto_2](https://github.com/users/aavilaa/projects/2?pane=issue&itemId=78180130))
+### Calculo_media(https://github.com/users/aavilaa/projects/2?pane=issue&itemId=78180130)
 Código que realiza calculo para média final do aluno para saber se foi ou não aprovado.
 
 
